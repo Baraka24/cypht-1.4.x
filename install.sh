@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # this is where Cypht will be installed
-DESTINATION="/usr/local/share/cypht"
+DESTINATION="/usr/local/share/cypht-1.4.x"
 
 # validate the destination directory
 sudo test -r $DESTINATION -a -x $DESTINATION
